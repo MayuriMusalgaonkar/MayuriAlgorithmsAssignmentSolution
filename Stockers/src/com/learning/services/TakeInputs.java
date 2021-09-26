@@ -81,10 +81,7 @@ public class TakeInputs {
 							System.out.println("Stock of value "+ currentStockPriceArr[searchElement] +" is present.");
 						}
 						break;
-					case 6:						
-						System.out.println("Press 0 to exit");
-						break;
-						
+					
 					default:
 						if(choice != 0) {
 							System.out.println("Enter a value from the listed options.");
